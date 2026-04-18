@@ -63,4 +63,9 @@ $$\rho(h) = \rho_0 e^{-h/H}$$
 
 where $\rho_0 = 1.225$ kg/m³, $H = 8500$ m
 
-## 💻 Code Structure
+## 🚀 How to Run
+
+### Basic Execution
+```matlab
+>> cd Problem1_Rocket_6DOF
+>> rocket_main
